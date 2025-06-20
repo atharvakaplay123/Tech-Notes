@@ -26,7 +26,12 @@
 ### Icons
 - [Icon Stack](https://fontawesome.com/icons)
 - [Lucide](https://lucide.dev/)
-# Raspberry Pi
+# Robotics & IoT
+### Circuit Simulators
+- [Wokwi](https://wokwi.com/)
+- [TinkerCAD](https://www.tinkercad.com/)
+- [Falstad](https://falstad.com/circuit/)
+### Raspberry Pi
 - [Official Documentation](https://www.raspberrypi.com/documentation/computers/os.html)
 - [Introduction to RPi OS](https://raspberry-pi-intro.readthedocs.io/en/latest/index.html)
 - [GPIOZERO Documentation](https://gpiozero.readthedocs.io/en/latest/index.html)
