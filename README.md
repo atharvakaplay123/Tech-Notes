@@ -31,6 +31,7 @@
 - [Wokwi](https://wokwi.com/)
 - [TinkerCAD](https://www.tinkercad.com/)
 - [Falstad](https://falstad.com/circuit/)
+- [EveryCircuit](https://everycircuit.com/app)
 ### Raspberry Pi
 - [Official Documentation](https://www.raspberrypi.com/documentation/computers/os.html)
 - [Introduction to RPi OS](https://raspberry-pi-intro.readthedocs.io/en/latest/index.html)
