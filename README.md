@@ -13,6 +13,8 @@
 ### Documentation
 - [Mintlify](https://mintlify.com/)
 - [GitDocify](https://gitdocify.com/)
+### Git
+- [Learn Git Through an interactive game](https://learngitbranching.js.org/)
 # WEB DEV
 ### CSS Practice
 - [Practice Selectors](https://flukeout.github.io/)
